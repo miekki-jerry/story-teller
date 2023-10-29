@@ -10,3 +10,6 @@ The app is running on Langchain and Eleven Labs. Each dialogue is unique and use
 The dialogs might be useful for learning languages. You can change your language level and language in general within the prompt.
 
 Eleven Labs uses a multilingual voice, so there is no need to change the code if you want to hear a different language than English.
+
+### NOTE:
+To use Story teller create _.env_ file
